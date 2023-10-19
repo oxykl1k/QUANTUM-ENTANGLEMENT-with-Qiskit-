@@ -5,4 +5,6 @@ This repository contains script to run a quantum entanglement simulation using Q
 
 Number of qubits and shots can be modified to get the result you want (in my case I used 4).
 
-# USE IT ONLY IN PERSONAL USAGE (AND PUT THIS 'README.md' FILE INSIDE YOUR PROJECT) ---- oxykl1k
+_______________________________________________________________________________________________________________________________
+
+USE IT ONLY IN PERSONAL USAGE (AND PUT THIS 'README.md' FILE INSIDE YOUR PROJECT) ---- oxykl1k
