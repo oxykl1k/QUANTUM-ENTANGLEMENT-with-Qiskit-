@@ -20,4 +20,4 @@ ________________________________________________________________________________
 
 USE IT ONLY IN PERSONAL USAGE (AND PUT THIS 'README.md' FILE INSIDE YOUR PROJECT) ---- oxykl1k
 
-git tag <quantum entanglement>
+git tag <quantum_entanglement>
