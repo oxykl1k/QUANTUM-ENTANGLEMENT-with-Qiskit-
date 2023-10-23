@@ -19,3 +19,5 @@ Number of qubits and shots can be modified to get the result you want (in my cas
 _______________________________________________________________________________________________________________________________
 
 USE IT ONLY IN PERSONAL USAGE (AND PUT THIS 'README.md' FILE INSIDE YOUR PROJECT) ---- oxykl1k
+
+git tag <quantum entanglement>
